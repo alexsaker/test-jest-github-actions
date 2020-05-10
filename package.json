@@ -1,0 +1,14 @@
+{
+  "name": "test-jest-github-actions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/sum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Alexandre Saker (saker.alexandre@gmail.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
